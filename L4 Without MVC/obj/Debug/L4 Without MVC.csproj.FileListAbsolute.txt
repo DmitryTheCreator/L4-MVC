@@ -1,0 +1,9 @@
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\bin\Debug\L4 Without MVC.exe.config
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\bin\Debug\L4 Without MVC.exe
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\bin\Debug\L4 Without MVC.pdb
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4 Without MVC.csprojAssemblyReference.cache
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4_Without_MVC.Form1.resources
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4_Without_MVC.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4 Without MVC.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4 Without MVC.exe
+C:\Users\ПК\OneDrive\Документы\ООП\L4 MVC\L4 Without MVC\obj\Debug\L4 Without MVC.pdb

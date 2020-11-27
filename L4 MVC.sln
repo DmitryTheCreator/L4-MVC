@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L4 MVC", "L4 MVC\L4 MVC.csproj", "{C8112907-2880-4854-8F21-D7DB6D63FF0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L4 Without MVC", "L4 Without MVC\L4 Without MVC.csproj", "{3DFA84EC-B5E6-4441-9603-4BCD479C6DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8112907-2880-4854-8F21-D7DB6D63FF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8112907-2880-4854-8F21-D7DB6D63FF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8112907-2880-4854-8F21-D7DB6D63FF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8112907-2880-4854-8F21-D7DB6D63FF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFA84EC-B5E6-4441-9603-4BCD479C6DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFA84EC-B5E6-4441-9603-4BCD479C6DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFA84EC-B5E6-4441-9603-4BCD479C6DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFA84EC-B5E6-4441-9603-4BCD479C6DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26A9160-F8BE-4515-909C-ABD3833925EC}
+	EndGlobalSection
+EndGlobal
